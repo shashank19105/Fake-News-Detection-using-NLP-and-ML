@@ -18,3 +18,10 @@ Introduction
 
 
 We propose Binary Classification models that we can use to classify if a statement is reliable or unreliable. This classification process has diverse practical applications as it automates the assignment of statements to either reliable or not with a very high accuracy. We classify based on the title, author, text, verbs etc.
+
+
+
+
+Description of the repo
+
+there are 2 data set across which we have implemented our models. Promising results were achieved on both the datasets.
