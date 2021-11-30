@@ -2,6 +2,7 @@
 Project made as a part of CSE343: Machine Learning course.
 
 Contributors
+
 Bharat Soni (bharat19461@iiitd.ac.in)
 Jatin Yadav (jatin19270@iiitd.ac.in)
 Shashank Chaurasia (shashank19105@iiitd.ac.in)
